@@ -1,0 +1,8 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "*.json.golden": "json",
+        "*.tmpl": "html",
+        "iostream": "cpp"
+    }
+}
