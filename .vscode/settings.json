@@ -3,6 +3,7 @@
     "files.associations": {
         "*.json.golden": "json",
         "*.tmpl": "html",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "ostream": "cpp"
     }
 }
