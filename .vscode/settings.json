@@ -4,6 +4,7 @@
         "*.json.golden": "json",
         "*.tmpl": "html",
         "iostream": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "vector": "cpp"
     }
 }
